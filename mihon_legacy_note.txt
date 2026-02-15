@@ -1,0 +1,4 @@
+# NOTE: legacy prototype kept as-is.
+# You can still run it directly if you want to compare behaviors.
+# New entry point: `flet run app.py`
+
